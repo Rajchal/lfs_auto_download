@@ -10,6 +10,8 @@ packages=(
     ["bash"]="https://ftp.gnu.org/gnu/bash/bash-5.2.37.tar.gz 9c28f21ff65de72ca329c1779684a972"
     ["bc"]="https://github.com/gavinhoward/bc/releases/download/7.0.3/bc-7.0.3.tar.xz ad4db5a0eb4fdbb3f6813be4b6b3da74"
     ["binutils"]="https://sourceware.org/pub/binutils/releases/binutils-2.44.tar.xz 49912ce774666a30806141f106124294"
+    ["bison"]="https://ftp.gnu.org/gnu/bison/bison-3.8.2.tar.xz"
+
 )
 
 DOWNLOAD_DIR="./downloads"
