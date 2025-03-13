@@ -97,7 +97,7 @@ packages=(
     ["xml-parser"]="https://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-2.47.tar.gz 89a8e82cfd2ad948b349c0a69c494463"
     ["xz"]="https://github.com//tukaani-project/xz/releases/download/v5.6.4/xz-5.6.4.tar.xz 4b1cf07d45ec7eb90a01dd3c00311a3e"
     ["zlib"]="https://zlib.net/fossils/zlib-1.3.1.tar.gz 9855b6d802d7fe5b7bd5b196a2271655"
-    ["zstd"]="https://github.com/facebook/zstd/releases/download/v1.5.7/zstd-1.5.7.tar.gz"
+    ["zstd"]="https://github.com/facebook/zstd/releases/download/v1.5.7/zstd-1.5.7.tar.gz 780fc1896922b1bc52a4e90980cdda48"
    
 
 )
